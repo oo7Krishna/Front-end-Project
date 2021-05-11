@@ -20,6 +20,6 @@ this is font emphasis
     1. Whole Numbers
     2. Natural Numbers
     3. Integers
- 
+ ![Guns](https://undark.org/wp-content/uploads/2020/04/weapons-3417508.jpg)
   
  
