@@ -36,3 +36,7 @@ this is font emphasis
  def fun():
    print("hai")
  ~~~
+
+Table 1 | Table 2
+--------|--------
+Table Body 1 | Table Body 2
