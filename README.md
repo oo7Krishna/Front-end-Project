@@ -40,3 +40,5 @@ this is font emphasis
 Table 1 | Table 2
 --------|--------
 Table Body 1 | Table Body 2
+
+_You **Tez** combine them_
