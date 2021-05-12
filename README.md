@@ -31,3 +31,8 @@ this is font emphasis
  ![Wather](https://www.aceros-de-hispania.com/images/walther-CP88-U4160008/walther-CP88-U4160008.jpg)
  
  [google](https://google.co.in)
+ 
+ ~~~python
+ def fun():
+   print("hai")
+ ~~~
