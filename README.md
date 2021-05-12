@@ -4,17 +4,21 @@ This is an front end project by using reactjs.
 ## it is used for heading 2 dont forget to give space
 ### it is used for heading 3
 #### it is used for heading 4
+##### it is used for heading 5 #####
+###### it is used for heading 6 ######
 *font style in italic*  ( after * dont give space)
 **font style in bold**   (after ** dont give space)
 ***font style in both italic and bold***  (after *** dont give space)
 this is font emphasis 
-# unordered list
+
+# List is a collections #
+## unordered list
 * fruties as unordered list name
 * vegetables
   * carrot
   * potato
   * onions
-## ordered List 
+### ordered List 
 1. Alphabets
 2. digits
     1. Whole Numbers
